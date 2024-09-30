@@ -9,6 +9,7 @@ public class SIElectricalsApplication {
 
 	public static void main(String[] args) {
 
+		SpringApplication.run(SIElectricalsApplication.class, args);
 	}
 
 }
